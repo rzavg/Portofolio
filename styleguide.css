@@ -1,0 +1,38 @@
+:root {
+  --HEADING-1-font-family: "Poppins", Helvetica;
+  --HEADING-1-font-weight: 700;
+  --HEADING-1-font-size: 50px;
+  --HEADING-1-letter-spacing: 0px;
+  --HEADING-1-line-height: normal;
+  --HEADING-1-font-style: normal;
+  --HEADING-2-font-family: "Poppins", Helvetica;
+  --HEADING-2-font-weight: 500;
+  --HEADING-2-font-size: 40px;
+  --HEADING-2-letter-spacing: 0px;
+  --HEADING-2-line-height: normal;
+  --HEADING-2-font-style: normal;
+  --PARAGRAF-1-font-family: "Poppins", Helvetica;
+  --PARAGRAF-1-font-weight: 500;
+  --PARAGRAF-1-font-size: 20px;
+  --PARAGRAF-1-letter-spacing: 0px;
+  --PARAGRAF-1-line-height: normal;
+  --PARAGRAF-1-font-style: normal;
+  --PARAGRAF-2-font-family: "Poppins", Helvetica;
+  --PARAGRAF-2-font-weight: 500;
+  --PARAGRAF-2-font-size: 24px;
+  --PARAGRAF-2-letter-spacing: 0px;
+  --PARAGRAF-2-line-height: normal;
+  --PARAGRAF-2-font-style: normal;
+  --PARAGRAF-3-font-family: "Poppins", Helvetica;
+  --PARAGRAF-3-font-weight: 500;
+  --PARAGRAF-3-font-size: 16px;
+  --PARAGRAF-3-letter-spacing: 0px;
+  --PARAGRAF-3-line-height: normal;
+  --PARAGRAF-3-font-style: normal;
+  --HEADING-3-font-family: "Poppins", Helvetica;
+  --HEADING-3-font-weight: 500;
+  --HEADING-3-font-size: 32px;
+  --HEADING-3-letter-spacing: 0px;
+  --HEADING-3-line-height: normal;
+  --HEADING-3-font-style: normal;
+}
